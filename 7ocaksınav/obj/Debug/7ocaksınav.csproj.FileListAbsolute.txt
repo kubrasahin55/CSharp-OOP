@@ -1,0 +1,7 @@
+C:\Users\kubra\Masaüstü\erp kurs\7ocaksınav\7ocaksınav\bin\Debug\7ocaksınav.exe.config
+C:\Users\kubra\Masaüstü\erp kurs\7ocaksınav\7ocaksınav\bin\Debug\7ocaksınav.exe
+C:\Users\kubra\Masaüstü\erp kurs\7ocaksınav\7ocaksınav\bin\Debug\7ocaksınav.pdb
+C:\Users\kubra\Masaüstü\erp kurs\7ocaksınav\7ocaksınav\obj\Debug\7ocaksınav.csproj.AssemblyReference.cache
+C:\Users\kubra\Masaüstü\erp kurs\7ocaksınav\7ocaksınav\obj\Debug\7ocaksınav.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Masaüstü\erp kurs\7ocaksınav\7ocaksınav\obj\Debug\7ocaksınav.exe
+C:\Users\kubra\Masaüstü\erp kurs\7ocaksınav\7ocaksınav\obj\Debug\7ocaksınav.pdb
